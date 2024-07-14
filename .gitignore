@@ -10,3 +10,5 @@
 
 # Leave target directory
 */target/*
+
+.DS_Store
